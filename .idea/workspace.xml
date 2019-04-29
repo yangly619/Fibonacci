@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5b3d89-a26b-444e-bba5-a5a2c471f923" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/informe1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/informe2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/progA/rabbitsFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/progA/rabbitsFibonacciTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/progA/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/progA/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/progA/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/progA/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/progA/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/progA/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/progA/FibonacciTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/progA/FibonacciTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,56 +20,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="186" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../index" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/progA/Fibonacci.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/progA/FibonacciTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#833#834#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,10 +47,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/progA/Fibonacci.java" />
         <option value="$PROJECT_DIR$/target/gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/progA/FibonacciTest.java" />
         <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/progA/rabbitsFibonacciTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/progA/rabbitsFibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/progA/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/test/java/progA/FibonacciTest.java" />
       </list>
     </option>
   </component>
@@ -84,16 +63,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="41" />
+    <option name="x" value="422" />
     <option name="y" value="23" />
     <option name="width" value="1381" />
     <option name="height" value="837" />
@@ -110,6 +81,58 @@
             <path>
               <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
               <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="progA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="progA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fibonacci" type="b2602c69:ProjectViewProjectNode" />
@@ -144,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FibonacciTest">
+  <component name="RunManager" selected="JUnit.rabbitsFibonacciTest">
     <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fibonacci" />
       <extension name="coverage">
@@ -160,7 +183,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.should3Return2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="rabbitsFibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fibonacci" />
       <extension name="coverage">
         <pattern>
@@ -169,14 +192,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="progA" />
-      <option name="MAIN_CLASS_NAME" value="progA.FibonacciTest" />
-      <option name="METHOD_NAME" value="should3Return2" />
+      <option name="MAIN_CLASS_NAME" value="progA.rabbitsFibonacciTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rabbitsFibonacciTest.should3MonthReturn4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fibonacci" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="progA" />
+      <option name="MAIN_CLASS_NAME" value="progA.rabbitsFibonacciTest" />
+      <option name="METHOD_NAME" value="should3MonthReturn4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.should4Return3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="rabbitsFibonacciTest.should40MonthReturn0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fibonacci" />
       <extension name="coverage">
         <pattern>
@@ -185,14 +223,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="progA" />
-      <option name="MAIN_CLASS_NAME" value="progA.FibonacciTest" />
-      <option name="METHOD_NAME" value="should4Return3" />
+      <option name="MAIN_CLASS_NAME" value="progA.rabbitsFibonacciTest" />
+      <option name="METHOD_NAME" value="should40MonthReturn0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciTest.should9Return34" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="rabbitsFibonacciTest.should5Return19" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="fibonacci" />
       <extension name="coverage">
         <pattern>
@@ -201,24 +239,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="progA" />
-      <option name="MAIN_CLASS_NAME" value="progA.FibonacciTest" />
-      <option name="METHOD_NAME" value="should9Return34" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciTest.shouldNegativeThrowException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="fibonacci" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="progA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="progA" />
-      <option name="MAIN_CLASS_NAME" value="progA.FibonacciTest" />
-      <option name="METHOD_NAME" value="shouldNegativeThrowException" />
+      <option name="MAIN_CLASS_NAME" value="progA.rabbitsFibonacciTest" />
+      <option name="METHOD_NAME" value="should5Return19" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.rabbitsFibonacciTest" />
         <item itemvalue="JUnit.FibonacciTest" />
-        <item itemvalue="JUnit.FibonacciTest.shouldNegativeThrowException" />
-        <item itemvalue="JUnit.FibonacciTest.should9Return34" />
-        <item itemvalue="JUnit.FibonacciTest.should4Return3" />
-        <item itemvalue="JUnit.FibonacciTest.should3Return2" />
+        <item itemvalue="JUnit.rabbitsFibonacciTest.should40MonthReturn0" />
+        <item itemvalue="JUnit.rabbitsFibonacciTest.should3MonthReturn4" />
+        <item itemvalue="JUnit.rabbitsFibonacciTest.should5Return19" />
       </list>
     </recent_temporary>
   </component>
@@ -248,20 +270,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FibonacciTest_should3Return2 - 2019.04.29 at 09h 37m 18s.xml">
-      <configuration name="FibonacciTest.should3Return2" configurationId="JUnit" />
+    <history-entry file="rabbitsFibonacciTest_should40MonthReturn0 - 2019.04.29 at 14h 14m 29s.xml">
+      <configuration name="rabbitsFibonacciTest.should40MonthReturn0" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_should4Return3 - 2019.04.29 at 10h 02m 33s.xml">
-      <configuration name="FibonacciTest.should4Return3" configurationId="JUnit" />
+    <history-entry file="rabbitsFibonacciTest - 2019.04.29 at 14h 16m 19s.xml">
+      <configuration name="rabbitsFibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_should9Return34 - 2019.04.29 at 10h 02m 37s.xml">
-      <configuration name="FibonacciTest.should9Return34" configurationId="JUnit" />
+    <history-entry file="rabbitsFibonacciTest - 2019.04.29 at 14h 16m 52s.xml">
+      <configuration name="rabbitsFibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest_shouldNegativeThrowException - 2019.04.29 at 10h 07m 25s.xml">
-      <configuration name="FibonacciTest.shouldNegativeThrowException" configurationId="JUnit" />
+    <history-entry file="rabbitsFibonacciTest - 2019.04.29 at 14h 18m 12s.xml">
+      <configuration name="rabbitsFibonacciTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FibonacciTest - 2019.04.29 at 10h 40m 58s.xml">
+    <history-entry file="FibonacciTest - 2019.04.29 at 14h 21m 11s.xml">
       <configuration name="FibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest - 2019.04.29 at 14h 21m 32s.xml">
+      <configuration name="FibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="rabbitsFibonacciTest - 2019.04.29 at 14h 22m 04s.xml">
+      <configuration name="rabbitsFibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest - 2019.04.29 at 14h 23m 19s.xml">
+      <configuration name="FibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FibonacciTest - 2019.04.29 at 14h 23m 58s.xml">
+      <configuration name="FibonacciTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="rabbitsFibonacciTest - 2019.04.29 at 14h 33m 10s.xml">
+      <configuration name="rabbitsFibonacciTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -272,15 +309,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24943988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24943988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49962658" weight="0.32885906" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49962658" weight="0.32885906" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5011202" side_tool="true" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Messages" weight="0.32885906" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49887976" visible="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,6 +327,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32935026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,27 +338,37 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24943988" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24943988" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32885906" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32885906" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.32935026" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fibonacci$FibonacciTest.ic" NAME="FibonacciTest Coverage Results" MODIFIED="1556540597996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>progA.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/fibonacci$rabbitsFibonacciTest.ic" NAME="rabbitsFibonacciTest Coverage Results" MODIFIED="1556541189358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>progA.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -330,31 +378,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/progA/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="75">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/progA/FibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
-            <element signature="e#833#834#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gitignore">
+    <entry file="file://$PROJECT_DIR$/src/test/java/progA/rabbitsFibonacciTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/progA/rabbitsFibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
